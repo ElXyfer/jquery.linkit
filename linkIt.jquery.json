@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "linkIt",
     "title": "linkIt jQuery Plugin",
@@ -32,3 +33,6 @@
         "jquery": ">=1.9"
     }
 }
+=======
+
+>>>>>>> e19929a955cc8049c66b7b348eb31e75d4690180

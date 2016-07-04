@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * name: LinkIt
  * author: Lincoln Chawora
@@ -35,3 +36,6 @@
 	  	}
 }(jQuery));
 
+=======
+
+>>>>>>> e19929a955cc8049c66b7b348eb31e75d4690180
